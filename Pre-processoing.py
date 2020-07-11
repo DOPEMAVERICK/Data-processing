@@ -1,6 +1,14 @@
 ## Pre-processing of data ##
 
-# importing the libraries
+# IMPORT THE LIBRARY
 
-import pandas as pd               # can give any alyas name 
+import pandas as pd               # GIVE ANY ALYAS NAME 
+
+# IMPORT THE DATASET
+
+data=pd.read_csv('DATA.csv')     # GIVE THE REQUIRED DATASET NAME WITH EXTENSION AS .CSV (COMMA SEPRATED VALUES)
+ 
+
+
+
  
